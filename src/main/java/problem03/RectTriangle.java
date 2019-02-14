@@ -5,6 +5,7 @@ public class RectTriangle extends Shape {
 	private double height;
 
 	public RectTriangle(double width, double height) {
+		
 	}
 
 	@Override
